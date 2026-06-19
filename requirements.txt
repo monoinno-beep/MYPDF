@@ -1,0 +1,7 @@
+streamlit
+pyMuPDF
+langchain_community
+langchain_core
+langchain_openai
+langchain_text_splitters
+faiss-cpu
